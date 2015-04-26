@@ -3,3 +3,4 @@ Hello World!
 Bonjour!
 Hello!
 This is a new line
+Hello World!
