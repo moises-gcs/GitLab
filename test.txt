@@ -6,3 +6,4 @@ This is a new line
 Hello World!
 This a line added by John Omin
 A new Line
+Something new is happening...
